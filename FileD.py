@@ -4,4 +4,7 @@ print(name)
 link =n "$PythonFileA.txt"
 
 location = "Canada"
-Profession = "SRE"
+
+Profession = "Site Reliability Engineer"
+
+Passionate for Singing, Dancing and Exploring New Things!
